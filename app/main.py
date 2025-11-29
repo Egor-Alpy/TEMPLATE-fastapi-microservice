@@ -1,11 +1,3 @@
-
-#      ___      __
-#     /   |    / /  ____    __  __
-#    / /| |   / /  / __ \  / / / /
-#   / ___ |  / /  / /_/ / / /_/ /
-#  /_/  |_| /_/  / .___/  \__, /
-#              /_/      /____/
-
 from contextlib import asynccontextmanager
 
 import uvicorn
